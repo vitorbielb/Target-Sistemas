@@ -1,0 +1,30 @@
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Target Sistemas.exe
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Target Sistemas.deps.json
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Target Sistemas.runtimeconfig.json
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Target Sistemas.dll
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Target Sistemas.pdb
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitor\source\repos\Target Sistemas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.AssemblyInfo.cs
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\staticwebassets\msbuild.Target Sistemas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\staticwebassets\msbuild.build.Target Sistemas.props
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Target Sistemas.props
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Target Sistemas.props
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\scopedcss\bundle\Target Sistemas.styles.css
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.csproj.CopyComplete
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.dll
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\refint\Target Sistemas.dll
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.pdb
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\Target Sistemas.genruntimeconfig.cache
+C:\Users\vitor\source\repos\Target Sistemas\obj\Debug\net6.0\ref\Target Sistemas.dll
